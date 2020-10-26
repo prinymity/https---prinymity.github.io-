@@ -1,0 +1,11 @@
+.seb-enabled.seb-overlay:before {
+    content: "";
+    background: rgba(0,0,0,0.2);
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    border: 0;
+    width: 100%;
+    height: 100%;
+}

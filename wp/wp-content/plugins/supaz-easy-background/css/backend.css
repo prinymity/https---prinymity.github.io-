@@ -1,0 +1,193 @@
+#supaz_easy_background .seb-postbox-wrappe label {
+	min-width: 200px;
+	display: inline-block;
+}
+
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper {
+	margin: 20px 0;
+}
+
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper .seb-upload-wrapper{
+	 display: inline-block;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper .seb-upload-wrapper .seb-upload-flex{
+	 display: flex;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper .seb-upload-wrapper .seb-upload-flex .seb-image-upload{
+	border: none;
+	background: #0085ba;
+    color: #fff;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper label {
+	min-width: 250px;
+	display: inline-block;
+	font-size: 15px;
+	 font-weight: 600;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-other-field-wrapper h4{
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+    background: #0073AA;
+    color: #fff;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper .ui-slider .ui-slider-handle{
+	width: 1.3em;
+    height: 1.3em;
+    text-align: center;
+
+
+}
+
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper .ui-widget.ui-widget-content {
+	    width: 200px;
+	display: inline-block;
+}
+
+#supaz_easy_background  .ui-sortable-handle {
+	font-size: 20px;
+}
+
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper  .seb-info {
+	margin: 10px 0;
+	font-style: italic;
+	display: block;
+	overflow: hidden;
+	line-height: 30px;
+	font-size: 14px;
+	  margin-left: 256px;
+}
+
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper  .seb-info pre{
+	 background: #f1f1f1;
+	 padding: 15px;
+	 white-space: normal;
+}
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper input[type=text],
+#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper select{
+	 width: 200px;
+    height: 31px;
+    background: #f1f1f1;
+    border-collapse: separate;
+    border: solid 2px transparent;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px transparent;
+    color: inherit;
+    font-size: inherit;
+    line-height: 18px;
+    padding: 4px 6px 4px 6px;
+    margin: 0;
+}
+
+.supaz-view-other-products{
+	 display: block;
+	 position: relative;
+
+
+}
+.supaz-head-text{
+	font-size: 18px;
+	position: relative;
+	margin-bottom: 5px;
+
+}
+.supaz-product-item{
+	position: relative;
+	overflow: hidden;
+	 display: block;
+	 margin-bottom: 5px;
+}
+
+.sp-col-6{ width: 50%; position: relative; padding-left: 15px; padding-right: 15px; float: left; box-sizing: border-box; }
+.sp-col-4{
+	width: 33.33%; position: relative; padding-left: 15px; padding-right: 15px; float: left; box-sizing: border-box;
+}
+
+.img-responsive{
+	width: 100%;
+	max-width: 100%;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.supaz-product-title{
+	font-size: 16px;
+	text-align: center;
+	 padding: 5px;
+
+}
+.supaz-product-title a{
+	 /*color: #333;*/
+}
+.supaz-product-image{
+	margin-top: 25px;
+}
+
+/*about us page */
+
+.sifs-settings-page-wrap {
+	padding: 25px 25px 0px 0px;
+}
+.sifs-header-wrap {
+
+    background: #008ec2;
+    overflow: hidden;
+    padding: 20px;
+
+}
+
+.sifs-header-logo {
+
+    float: left;
+
+}
+
+.sifs-header-logo, .supaz-social-profiles a {
+
+    color: #fff;
+
+}
+
+.sifs-header-logo h2 {
+
+    color: #fff;
+
+}
+
+.sifs-header-logo, .supaz-social-profiles {
+
+    color: #fff;
+
+}
+
+.supaz-social-profiles {
+
+    float: right;
+
+}
+
+.supaz-social-profiles > p {
+
+    margin-bottom: 7px;
+
+}
+
+.sifs-instagram-settings-inner-wrap {
+
+    border: 1px solid #008ec2;
+    padding: 50px 20px;
+
+}
+
+@media( max-width: 640px){
+	#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper  .seb-info{
+		 margin: 0;
+		  display: block;
+		  margin: 10px 0;
+	}
+	#supaz_easy_background .seb-postbox-wrapper .seb-postbox-wrapper-inner .seb-post-field-wrapper label { margin-bottom: 10px; }
+}
